@@ -1,4 +1,4 @@
-#选材自开源项目(刘焕勇，中国科学院软件研究所)，数据集来自互联网爬虫数据
+#数据集来自互联网爬虫数据
 import os
 import json
 from py2neo import Graph,Node
